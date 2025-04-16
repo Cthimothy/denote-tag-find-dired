@@ -39,4 +39,3 @@
         (message "No files found with tag: %s" chosen-tag)))))
 
 (provide 'denote-tag-find-dired)
-
